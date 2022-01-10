@@ -1,5 +1,7 @@
 # TI-99/4A 64K Cartridge Board
 
+![Picture](https://github.com/hexbus/TI99_64K_Cartridge_Board/blob/main/64k%20board.png)
+
 ## Background
 This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.
 
