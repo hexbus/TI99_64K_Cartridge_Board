@@ -12,29 +12,22 @@ The gerber files are formatted as RS-274-X files.  The drill file includes the h
 
 Each file can be identify by it's extension:
 
-   .SLK = top silkscreen layer
-   
-   .SMT = top solder mask layer
-   
-   .TOP = top copper layer
-   
-   .BOT = bottom copper layer
-   
-   .SMB = bottom solder mask layer
-   
-   .DRI = drill file
-   
-   .OLN = board outline
+* .SLK = top silkscreen layer  
+* .SMT = top solder mask layer 
+* .TOP = top copper layer
+* .BOT = bottom copper layer
+* .SMB = bottom solder mask layer
+* .DRI = drill file
+* .OLN = board outline
 
 You can use a Gerber file previewer to look at these files.  Two free previewers are available for downloading from the web.
 
-GraphiCode's "GC-Prevue" can be downloaded at:
+* GraphiCode's "GC-Prevue" can be downloaded at:
    http://www.graphicode.com
-Lavenir's "ViewMate" can be downloaded at:
+* Lavenir's "ViewMate" can be downloaded at:
    http://www.lavenir.com
 
-You can use and make changes to these files as long as the copyright notices remain intact on the board files and this file is distributed 
-with it.  
+You can use and make changes to these files as long as the copyright notices remain intact on the board files and this file is distributed with it.  
 
 This file is (c) 2009 www.hexbus.com, (c) 2007 www.ti-994a.com. Thanks to www.mainbyte.com for the idea to make this.
 
@@ -46,4 +39,3 @@ acadiel%guidry.org (replace % with @)
 
 ## Usage
 See attached license
-
