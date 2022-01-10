@@ -13,11 +13,17 @@ The gerber files are formatted as RS-274-X files.  The drill file includes the h
 Each file can be identify by it's extension:
 
    .SLK = top silkscreen layer
+   
    .SMT = top solder mask layer
+   
    .TOP = top copper layer
+   
    .BOT = bottom copper layer
+   
    .SMB = bottom solder mask layer
+   
    .DRI = drill file
+   
    .OLN = board outline
 
 You can use a Gerber file previewer to look at these files.  Two free previewers are available for downloading from the web.
