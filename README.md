@@ -3,7 +3,7 @@
 ![Picture](https://github.com/hexbus/TI99_64K_Cartridge_Board/blob/main/64k%20board.png)
 
 ## Background
-This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.
+This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.  I designed it around 2010.
 
 ## Original README
 This 64K .pcb file was made with ExpressPCB (www.expresspcb.com).
