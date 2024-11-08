@@ -29,7 +29,7 @@ You can use a Gerber file previewer to look at these files.  There are many free
 
 You can use and make changes to these files as long as the copyright notices remain intact on the board files and this file is distributed with it.  
 
-This file is (c) 2009 www.hexbus.com, (c) 2007 www.ti-994a.com. Thanks to www.mainbyte.com for the idea to make this.
+This file is (c) 2009 www.hexbus.com, (c) 2007 www.ti-994a.com. Thanks to www.mainbyte.com for the idea to make this.  Thanks to James Fetzner and Mike Brent for assistance when designing it.
 
 If you make any changes and would like to share them with me, I would love to see this board continue to improve and become something more....
 
@@ -38,4 +38,13 @@ www.hexbus.com
 acadiel%guidry.org (replace % with @)
 
 ## Usage
-See attached license
+BOM:  
+
+* 68 ohm 1/4 watt resistor
+* 22pf radial or small axial MLCC capacitor (220)
+* 1nf radial or small axial MLCC capacitor (102)
+* Four two-pin jumper headers (and jumpers if needed)
+* 16 pin 0.3in IC socket (machine pin preferable)
+* 28 pin 0.6in IC socket (machine pin preferable)
+* 2764/27128/27256/27512 or pin-equivalent flash memory (such as W27C512 by Winbond)
+
