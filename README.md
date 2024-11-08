@@ -3,7 +3,10 @@
 ![Picture](https://github.com/hexbus/TI99_64K_Cartridge_Board/blob/main/64k%20board.png)
 
 ## Background
-This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.  I designed it around 2010.
+This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.  I designed it around 2010.  You may also see people refer to this as the "Guidry" board.  Almost all TI cartridge boards that are ROM boards are derived from this in one way or another. 
+
+* This 64K uses inverted 8K banks to bank switch with a 27512 (i.e. Bank 7,6,5,4,3,2,1,0 should be placed in that order on the EPROM).
+* To have a non-inverted image work with this board, invert the order of the 8K chunks (i.e. >0000->1FFF goes to >7000->7FFF on the EPROM.)  There are [utilities](https://forums.atariage.com/topic/350614-rom-cartridge-with-multiple-banks/?do=findComment&comment=5271188) written to perform inversion, or you can do so manually by cutting and pasting in a hex editor.
 
 ## Original README
 This 64K .pcb file was made with ExpressPCB (www.expresspcb.com).
@@ -22,12 +25,7 @@ Each file can be identify by it's extension:
 * .DRI = drill file
 * .OLN = board outline
 
-You can use a Gerber file previewer to look at these files.  Two free previewers are available for downloading from the web.
-
-* GraphiCode's "GC-Prevue" can be downloaded at:
-   http://www.graphicode.com
-* Lavenir's "ViewMate" can be downloaded at:
-   http://www.lavenir.com
+You can use a Gerber file previewer to look at these files.  There are many free previewers are available for downloading from the web.
 
 You can use and make changes to these files as long as the copyright notices remain intact on the board files and this file is distributed with it.  
 
