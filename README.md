@@ -33,6 +33,14 @@ This file is (c) 2009 www.hexbus.com, (c) 2007 www.ti-994a.com. Thanks to www.ma
 
 If you make any changes and would like to share them with me, I would love to see this board continue to improve and become something more....
 
+## Cartridge Shell
+
+This is a cartridge shell sized for standard TI-99/4A cartridges. Minor adjustments made at the 2014 TI-99/4A Faire in Chicago.  This is the last version that I authored of this shell.  
+
+Notes: This is in inches; not metric.  When we first started doing 3D modeling like 20 years ago, the instructor (mistakenly) had us do it in inches.  If someone can please help me to convert this to metric, and help me fix the rough top, I'd be happy to accept a merge request to fix it.  (I don’t have a license to Inventor any longer, so I cannot modify it.)
+
+Knock yourself out and do whatever you want.  That’s why it’s here!  Cart Shell License: CC BY-SA
+
 Jon Guidry
 www.hexbus.com
 acadiel%guidry.org (replace % with @)
