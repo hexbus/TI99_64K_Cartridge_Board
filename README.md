@@ -2,6 +2,17 @@
 
 ![Picture](https://github.com/hexbus/TI99_64K_Cartridge_Board/blob/main/64k%20board.png)
 
+## PCB ordering
+
+- **[Download the design archive (contains Gerbers)](https://github.com/hexbus/TI99_64K_Cartridge_Board/raw/refs/heads/main/64k_cart.zip)**
+- **[Open JLCPCB using my referral link](https://jlcpcb.com/?from=RVDYTTLKZHK)**
+
+Extract `64k_cart.zip`, then upload its inner `64k_cart/gerbers.zip` to JLCPCB through the referral link. The outer download also contains ExpressPCB source; it is not the manufacturing ZIP.
+
+Confirm the detected outline, dimensions and layer count, and use this project's documented board and assembly requirements before ordering.
+
+The referral link does not upload files automatically. I may receive referral rewards for qualifying new users.
+
 ## Background
 This is the original 64K EPROM Cartridge board for TI-99/4A from www.hexbus.com.  I designed it around 2010.  You may also see people refer to this as the "Guidry" board.  Almost all TI cartridge boards that are ROM boards are derived from this in one way or another. 
 
